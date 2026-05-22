@@ -1,3 +1,4 @@
+<img width="1249" height="999" alt="Dashboard" src="https://github.com/user-attachments/assets/dd40a701-a356-4d91-b113-3bf08d7162f4" />
 # Claims Analysis Dashboard - VBA + Tableau Project
 
 ## Project Overview
